@@ -1,1 +1,1 @@
-# resume-screening-app
+resume_screening_model.joblib
